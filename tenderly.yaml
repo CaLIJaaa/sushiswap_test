@@ -1,0 +1,4 @@
+account_id: d479194d-490f-47c0-a90b-6fdf70fdcada
+project_slug: tenderly-tests
+provider: Hardhat
+tenderly_automatic_verification: true
